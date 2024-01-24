@@ -36,7 +36,9 @@ Two players, each represented by a distinct symbol (X or O).
    git clone https://github.com/boumhamdifatima/Tic-Tac-Toe-React-Game.git
 
 
-### `npm start`
+### Runs the application
+
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
